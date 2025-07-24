@@ -1,0 +1,31 @@
+ID,TANGGAL,WAKTU_BRKAT,JARAK,WAKTU_TMPUH,JENIS_JALAN,KONDISI_LALIN,CUACA,SUMBER_DATA
+1,10/03/2025,7.15,15.03,42:54:00,jalan_raya,tinggi,cerah,Google Maps
+2,10/03/2025,10.3,15.03,28:21:00,jalan_raya,sedang,cerah,Google Maps
+3,10/03/2025,17,15.03,45:15:00,jalan_raya,tinggi,hujan_ringan,Google Maps
+4,11/03/2025,7.3,15.03,40:04:00,jalan_raya,tinggi,cerah,Google Maps
+5,11/03/2025,13,15.03,25:22:00,jalan_raya,rendah,cerah,Google Maps
+6,11/03/2025,18.3,22.05,69:01:00,jalan_kota,sangat_tinggi,hujan_deras,Waze
+7,12/03/2025,6.45,25.00,33:36:00,tol,sedang,cerah,GPS Tracking
+8,12/03/2025,12.15,25.00,28:42:00,tol,rendah,cerah,GPS Tracking
+9,12/03/2025,19,25.08,35:26:00,tol,sedang,cerah,GPS Tracking
+10,13/03/2025,8,7.05,24:05:00,jalan_kota,tinggi,cerah,Survei
+11,13/03/2025,14.3,7.05,15:20:00,jalan_kota,rendah,cerah,Survei
+12,13/03/2025,17.45,7.05,35:40:00,jalan_kota,sangat_tinggi,hujan_ringan,Survei
+13,14/03/2025,7.3,40.02,46:04:00,tol,tinggi,cerah,GPS Tracking
+14,14/03/2025,15,40.02,39:36:00,tol,sedang,cerah,GPS Tracking
+15,14/03/2025,20,40.02,35:24:00,tol,rendah,cerah,GPS Tracking
+16,15/03/2025,9,12.07,27:15:00,jalan_raya,sedang,cerah,Google Maps
+17,15/03/2025,14.15,12.07,32:46:00,jalan_raya,tinggi,hujan_ringan,Google Maps
+18,15/03/2025,19.3,12.07,24:46:00,jalan_raya,sedang,cerah,Google Maps
+19,16/03/2025,8.45,5.03,18:26:00,jalan_kota,sedang,cerah,Survei
+20,16/03/2025,13,5.03,22:54:00,jalan_kota,tinggi,hujan_deras,Survei
+21,16/03/2025,18.3,35.09,37:22:00,tol,sedang,cerah,Waze
+22,17/03/2025,7,18.04,52:34:00,jalan_raya,sangat_tinggi,hujan_ringan,Google Maps
+23,17/03/2025,12.45,18.04,33:20:00,jalan_raya,sedang,cerah,Google Maps
+24,17/03/2025,16.3,18.04,48:22:00,jalan_raya,tinggi,cerah,Google Maps
+25,18/03/2025,7.45,8.09,35:35:00,jalan_kota,tinggi,cerah,Survei
+26,18/03/2025,14,8.09,21:02:00,jalan_kota,rendah,cerah,Survei
+27,18/03/2025,17.3,8.09,42:11:00,jalan_kota,sangat_tinggi,hujan_deras,Survei
+28,19/03/2025,6.3,45.06,59:00:00,tol,sedang,cerah,GPS Tracking
+29,19/03/2025,11.15,45.06,50:54:00,tol,rendah,cerah,GPS Tracking
+30,19/03/2025,16.45,45.06,65:40:00,tol,tinggi,hujan_ringan,GPS Tracking
