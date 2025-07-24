@@ -1,5 +1,4 @@
-﻿ID Perjalanan,Jarak_KM,Kategori_Jarak,Kategori_Jarak_code,Waktu_Keberangkatan,Kategori_Waktu,Kategori_Waktu_coded,Hari,Jenis_Hari,Jenis_Hari_coded,Jenis_Jalan,Jenis_Jalan_coded,Kondisi_Lalu_Lintas,Kondisi_Lalin_code,Waktu_Tempuh_menit,Kecepatan (km/jam),Waktu Ideal (menit),Indeks Hambatan
-1,15.3,Menengah,1,7:15,Pagi,0,Senin,Hari Kerja,0,jalan_raya,1,tinggi,2,42,21.86,,
+﻿ID Perjalanan,Jarak_KM,Kategori_Jarak,Kategori_Jarak_code,Waktu_Keberangkatan,Kategori_Waktu,Kategori_Waktu_coded,Hari,Jenis_Hari,Jenis_Hari_coded,Jenis_Jalan,Jenis_Jalan_coded,Kondisi_Lalu_Lintas,Kondisi_Lalin_code,Waktu_Tempuh_menit,Kecepatan (km/jam)
 2,15.3,Menengah,1,10:30,Pagi,0,Senin,Hari Kerja,0,jalan_raya,1,sedang,1,28,32.79,,
 3,15.3,Menengah,1,17:00,Sore,2,Senin,Hari Kerja,0,jalan_raya,1,tinggi,2,45,20.40,,
 4,15.3,Menengah,1,7:30,Pagi,0,Selasa,Hari Kerja,0,jalan_raya,1,tinggi,2,40,22.95,,
